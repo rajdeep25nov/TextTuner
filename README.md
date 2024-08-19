@@ -4,9 +4,10 @@ Text Tuner Application
 texcases, removing extra spaces, and previewing text summaries.
 • Enhanced Functionality: Implemented features to calculate reading time and provide text previews.
 • Deployment and CI/CD Management: Deployed the application on Microsoft Azure and managed CI/CD pipelines to streamline updates &
-maintenance.
-<a href="https://texttuner.azurewebsites.net">link text</a>
-Link = https://texttuner.azurewebsites.net
+maintenance. <br/>
+Link for Website :- <br/>
+<a href="https://texttuner.azurewebsites.net">Text Tuner Web App</a>
+
 
 # TextTuner
 TextTuner App full stack MERN
